@@ -1,11 +1,11 @@
 
 <!-- ![github-banner](https://user-images.githubusercontent.com/3611928/169144953-49223b21-1e00-4607-971a-4f870468a986.svg) -->
-
+<!-- 
 - [Gatsby](https://www.gatsbyjs.com/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [Prettier](https://prettier.io/)
 - [React Helmet](https://github.com/nfl/react-helmet)
-
+ -->
 Take a look at the screenshot below or preview the live site here: https://gatsby-ecommerce-theme.netlify.app/!
 ![full page screenshot](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1653371030/CleanShot_2022-05-24_at_01.11.52_2x_bspa8c.jpg)
 <!-- 
